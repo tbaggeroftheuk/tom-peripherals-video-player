@@ -1,3 +1,6 @@
+This requires Tom's Peripherals to use:
+https://modrinth.com/mod/toms-peripherals
+
 # How to use
 1. Install the python dependencies for the server
 ```pip install flask pillow opencv-python dfpwm soundfile numpy scipy moviepy```
